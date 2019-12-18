@@ -1,0 +1,105 @@
+Sat Dec 14 20:47:52 2019: build-wrapper, version 6.4 (macosx-x86)
+Sat Dec 14 20:47:52 2019: System name: Darwin Nodename: Xiuhcoatl.local Release: 19.2.0 Version: Darwin Kernel Version 19.2.0: Sat Nov  9 03:47:04 PST 2019; root:xnu-6153.61.1~20/RELEASE_X86_64 Machine: x86_64
+Sat Dec 14 20:47:52 2019: socket path: /tmp/build-wrapper-socket.fWjLO1
+Sat Dec 14 20:47:52 2019: dynamic library found: /Users/dantopa/Downloads/build-wrapper-macosx-x86/libinterceptor.dylib
+Sat Dec 14 20:47:52 2019: command executed as: <build-wrapper-macosx-x86>
+Sat Dec 14 20:47:52 2019: command line received: <make clean all>
+Sat Dec 14 20:47:52 2019: env 0: <TERM_PROGRAM=Apple_Terminal>
+Sat Dec 14 20:47:52 2019: env 1: <SHELL=/bin/zsh>
+Sat Dec 14 20:47:52 2019: env 2: <TERM=xterm-256color>
+Sat Dec 14 20:47:52 2019: env 3: <TMPDIR=/var/folders/f2/0qk5gn4x1rlczv63skzbp19h0000gn/T/>
+Sat Dec 14 20:47:52 2019: env 4: <TERM_PROGRAM_VERSION=433>
+Sat Dec 14 20:47:52 2019: env 5: <TERM_SESSION_ID=5CBFD63E-FDFA-4505-B2F7-884F7705FD74>
+Sat Dec 14 20:47:52 2019: env 6: <USER=dantopa>
+Sat Dec 14 20:47:52 2019: env 7: <SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.EBwSWX1CjB/Listeners>
+Sat Dec 14 20:47:52 2019: env 8: <PATH=/Users/dantopa/Downloads/build-wrapper-macosx-x86:/Users/dantopa/Downloads/sonar-scanner-4.2.0.1873-macosx:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/Library/TeX/texbin>
+Sat Dec 14 20:47:52 2019: env 9: <LaunchInstanceID=95233476-C3B7-47E8-907E-C5B0B16450E4>
+Sat Dec 14 20:47:52 2019: env 10: <PWD=/Users/dantopa/primary-repos/github/hydro>
+Sat Dec 14 20:47:52 2019: env 11: <LANG=en_US.UTF-8>
+Sat Dec 14 20:47:52 2019: env 12: <XPC_FLAGS=0x0>
+Sat Dec 14 20:47:52 2019: env 13: <XPC_SERVICE_NAME=0>
+Sat Dec 14 20:47:52 2019: env 14: <SHLVL=1>
+Sat Dec 14 20:47:52 2019: env 15: <HOME=/Users/dantopa>
+Sat Dec 14 20:47:52 2019: env 16: <LOGNAME=dantopa>
+Sat Dec 14 20:47:52 2019: env 17: <SECURITYSESSIONID=186a8>
+Sat Dec 14 20:47:52 2019: env 18: <OLDPWD=/Users/dantopa/primary-repos/github>
+Sat Dec 14 20:47:52 2019: env 19: <host_name=xiuhcoatl>
+Sat Dec 14 20:47:52 2019: env 20: <zsh_file=.xiuhcoatl-zsh>
+Sat Dec 14 20:47:52 2019: env 21: <extras=.platform-specific-zsh>
+Sat Dec 14 20:47:52 2019: env 22: <locker=/Users/dantopa/.info>
+Sat Dec 14 20:47:52 2019: env 23: <scratch=/Users/dantopa/scratch>
+Sat Dec 14 20:47:52 2019: env 24: <repos=/Users/dantopa/primary-repos>
+Sat Dec 14 20:47:52 2019: env 25: <configuration=/Users/dantopa/primary-repos/bitbucket/initialization-scripts/mac/xiuhcoatl>
+Sat Dec 14 20:47:52 2019: env 26: <zsh_scripts=/Users/dantopa/primary-repos/bitbucket/argon-zsh-scripts>
+Sat Dec 14 20:47:52 2019: env 27: <core=/Users/dantopa/primary-repos/bitbucket/argon-zsh-scripts/core-scripts>
+Sat Dec 14 20:47:52 2019: env 28: <mySpack=/Users/dantopa/scratch/spack-folder>
+Sat Dec 14 20:47:52 2019: env 29: <big_spack_mirror=/Users/dantopa/scratch/spack-folder/topa-mirror-spack>
+Sat Dec 14 20:47:52 2019: env 30: <gcc_system_compiler=gcc@7.3.0>
+Sat Dec 14 20:47:52 2019: env 31: <my_log=/Users/dantopa/.info/environment-variables.txt>
+Sat Dec 14 20:47:52 2019: env 32: <cppflags4=-g -Wall -Wextra -Og -pedantic -fmax-errors=5>
+Sat Dec 14 20:47:52 2019: env 33: <cppflags45=-g -Wall -Wextra -Og -pedantic -fmax-errors=5>
+Sat Dec 14 20:47:52 2019: env 34: <cppflags47=-g -Wall -Wextra -Og -pedantic -fmax-errors=5>
+Sat Dec 14 20:47:52 2019: env 35: <cppflags48=-g -Wall -Wextra -Og -pedantic -fmax-errors=5>
+Sat Dec 14 20:47:52 2019: env 36: <cppflags5=-g -Wall -Wextra -Og -pedantic -fmax-errors=5 -fdiagnostics-color=auto>
+Sat Dec 14 20:47:52 2019: env 37: <cppflags6=-g -Wall -Wextra -Og -pedantic -fmax-errors=5 -fdiagnostics-color=auto>
+Sat Dec 14 20:47:52 2019: env 38: <cppflags7=-g -Wall -Wextra -Og -pedantic -fmax-errors=5 -fdiagnostics-color=auto>
+Sat Dec 14 20:47:52 2019: env 39: <cppflags=-g -Wall -Wextra -Og -pedantic -fmax-errors=5 -fdiagnostics-color=auto>
+Sat Dec 14 20:47:52 2019: env 40: <gflags4=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5>
+Sat Dec 14 20:47:52 2019: env 41: <gflags45=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens>
+Sat Dec 14 20:47:52 2019: env 42: <gflags47=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens -Wfunction-elimination -faggressive-function-elimination>
+Sat Dec 14 20:47:52 2019: env 43: <gflags48=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all>
+Sat Dec 14 20:47:52 2019: env 44: <gflags5=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto>
+Sat Dec 14 20:47:52 2019: env 45: <gflags6=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto  -Wconversion-extra>
+Sat Dec 14 20:47:52 2019: env 46: <gflags7=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto  -Wconversion-extra  -finit-derived>
+Sat Dec 14 20:47:52 2019: env 47: <gflags=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto  -Wconversion-extra  -finit-derived>
+Sat Dec 14 20:47:52 2019: env 48: <cflags=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto  -Wconversion-extra  -finit-derived -fcoarray=lib>
+Sat Dec 14 20:47:52 2019: env 49: <crayflags=-g -fbacktrace>
+Sat Dec 14 20:47:52 2019: env 50: <nagflags=-g -C=all -colour -compatible -f2008 -free -gc -gline -info -nan -O2 -pg -time -v -V>
+Sat Dec 14 20:47:52 2019: env 51: <fortran_compiler_gnu=gfortran>
+Sat Dec 14 20:47:52 2019: env 52: <fortran_compiler_caf=caf>
+Sat Dec 14 20:47:52 2019: env 53: <fortran_compiler_mpi_gnu=mpif90>
+Sat Dec 14 20:47:52 2019: env 54: <fortran_compiler_mpi_cray=ftn>
+Sat Dec 14 20:47:52 2019: env 55: <bitbucket=/Users/dantopa/primary-repos/bitbucket>
+Sat Dec 14 20:47:52 2019: env 56: <repos_bitbucket= lanl top>
+Sat Dec 14 20:47:52 2019: env 57: <lanl=/Users/dantopa/primary-repos/bitbucket/LANL>
+Sat Dec 14 20:47:52 2019: env 58: <least_squares=/Users/dantopa/primary-repos/bitbucket/LANL/fortran/least-squares>
+Sat Dec 14 20:47:52 2019: env 59: <top=/Users/dantopa/primary-repos/bitbucket/top>
+Sat Dec 14 20:47:52 2019: env 60: <github=/Users/dantopa/primary-repos/github>
+Sat Dec 14 20:47:52 2019: env 61: <repos_github= topa yaml_library>
+Sat Dec 14 20:47:52 2019: env 62: <topa=/Users/dantopa/primary-repos/github/topa-development>
+Sat Dec 14 20:47:52 2019: env 63: <yaml_library=/Users/dantopa/primary-repos/github/yaml-library>
+Sat Dec 14 20:47:52 2019: env 64: <bold=[1m>
+Sat Dec 14 20:47:52 2019: env 65: <normal=(B[m>
+Sat Dec 14 20:47:52 2019: env 66: <LSCOLORS=Gxfxcxdxbxegedabagacad>
+Sat Dec 14 20:47:52 2019: env 67: <_=/Users/dantopa/Downloads/build-wrapper-macosx-x86/build-wrapper-macosx-x86>
+Sat Dec 14 20:47:52 2019: executing: <make clean all>
+Sat Dec 14 20:47:52 2019: initializing json file
+Sat Dec 14 20:47:52 2019: process created with pid: 23596
+Sat Dec 14 20:47:52 2019: parent pid: 23595
+Sat Dec 14 20:47:52 2019: working directory: </Users/dantopa/primary-repos/github/hydro>
+Sat Dec 14 20:47:52 2019: executable: </Users/dantopa/Downloads/build-wrapper-macosx-x86/build-wrapper-macosx-x86>
+Sat Dec 14 20:47:52 2019: argv[0]: <build-wrapper-macosx-x86>
+Sat Dec 14 20:47:52 2019: argv[1]: <-c>
+Sat Dec 14 20:47:52 2019: argv[2]: <>
+Sat Dec 14 20:47:52 2019: argv[3]: <make>
+Sat Dec 14 20:47:52 2019: argv[4]: <clean>
+Sat Dec 14 20:47:52 2019: argv[5]: <all>
+Sat Dec 14 20:47:52 2019: skipping process with pid: 23596
+Sat Dec 14 20:47:53 2019: process created with pid: 23597
+Sat Dec 14 20:47:53 2019: parent pid: 23596
+Sat Dec 14 20:47:53 2019: working directory: </Users/dantopa/primary-repos/github/hydro>
+Sat Dec 14 20:47:53 2019: executable: </private/tmp/sonarsource-build-wrapper-cache-501/usr/bin/make>
+Sat Dec 14 20:47:53 2019: argv[0]: <make>
+Sat Dec 14 20:47:53 2019: argv[1]: <clean>
+Sat Dec 14 20:47:53 2019: argv[2]: <all>
+Sat Dec 14 20:47:53 2019: skipping process with pid: 23597
+Sat Dec 14 20:47:53 2019: process created with pid: 23597
+Sat Dec 14 20:47:53 2019: parent pid: 23596
+Sat Dec 14 20:47:53 2019: working directory: </Users/dantopa/primary-repos/github/hydro>
+Sat Dec 14 20:47:53 2019: executable: </Library/Developer/CommandLineTools/usr/bin/make>
+Sat Dec 14 20:47:53 2019: argv[0]: </Library/Developer/CommandLineTools/usr/bin/make>
+Sat Dec 14 20:47:53 2019: argv[1]: <clean>
+Sat Dec 14 20:47:53 2019: argv[2]: <all>
+Sat Dec 14 20:47:53 2019: skipping process with pid: 23597
+Sat Dec 14 20:47:53 2019: finalizing json file
+Sat Dec 14 20:47:53 2019: returned with code: 2
